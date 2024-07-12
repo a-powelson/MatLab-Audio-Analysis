@@ -5,7 +5,6 @@
 
 Frequency analysis of a .wav file using MatLab.
 This program samples the first N (chosen by user when prompted) seconds of audio. Power = volume.
-I have included circled examples of notes on an example plot created using piano.wav for 5 seconds, you can see when a key is hit and how the note is sustained.
 
 ## Discussion of Parameters
 These parameters were chosen to work best with piano.wav

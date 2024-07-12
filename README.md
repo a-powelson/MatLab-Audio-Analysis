@@ -1,7 +1,7 @@
 # MatLab-Audio-Analysis
 **Author:** Ava Powelson
 
-**Usage:** frequency_analysis [fileName.wav]
+**Usage:** matlab -r "frequency_analysis [fileName.wav]"
 
 Frequency analysis of a .wav file using MatLab.
 This program samples the first N (chosen by user when prompted) seconds of audio. Power = volume.
